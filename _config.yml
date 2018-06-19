@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用Minimal Mistakes主题的Jekyll网站 "
+title                    : "使用Minimal Mistakes主题的Jekyll网站"
 title_separator          : "："
 name                     : &name "吴惠怡"
-description              : &description "用Jekyll制造的网站."
-url                      : https://nfunm079.gitee.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "用Jekyll制作的网站."
+url                      : https://nfunm079.gitee.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "NFUNM079/minimal-mistakes"
 teaser                   : # "500x300.png"
